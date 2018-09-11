@@ -1,2 +1,2 @@
 # -robotica
-projeto de um desenhista
+projeto de um robo desenhista
